@@ -1,0 +1,26 @@
+{
+  "name": "containercraft",
+  "version": "1.0.0",
+  "description": "Hypervisor configuration and management tools",
+  "keywords": [
+    "hypervisor",
+    "api",
+    "Docker",
+    "LXC / LXD",
+    "Libvirt / QEMU+KVM",
+    "Bare Metal Hosts",
+    "Physical Switching Gear"
+  ],
+  "author": "Kat (https://github.com/thegreenhundred)",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+    "rolldice": "^7.1.0",
+    "pacman": ">=6.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/containercraft/hypervisor"
+  },
+  "readmeFilename": "README.md"
+}
